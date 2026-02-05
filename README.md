@@ -27,11 +27,11 @@ I am a curious and solution-oriented professional with a strong background in **
 ---
 
 ### 📊 GitHub Stats
-![Ferran's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)
+![Ferran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferranarna&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferranarna&layout=compact&theme=radical)
 
 ---
 
 ### 📫 How to reach me
 - **LinkedIn:** [linkedin.com/in/ferran-arnaus-garcia](https://www.linkedin.com/in/ferran-arnaus-garcia-201947b3)
-- **Email:** farnausger@gmail.com
+- **Email:** farnausgar@gmail.com
