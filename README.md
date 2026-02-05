@@ -29,9 +29,13 @@ I am a curious and solution-oriented professional with a strong background in **
 
 ---
 
-### 📊 GitHub Stats
-![Ferran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferranarna&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferranarna&layout=compact&theme=radical&cache_seconds=1800)
+### 📊 GitHub Activity & Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ferranarna&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ferranarna&theme=radical)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ferranarna&layout=compact&theme=radical)
 
 ---
 
